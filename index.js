@@ -18,4 +18,8 @@ var num3 = [7, 8, 9];
 var nums = num1.concat(num2, num3);
 console.log(nums);
 
+const a = 1;
+const soma = a + 5;
+console.log(soma);
+
 
